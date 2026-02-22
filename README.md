@@ -72,6 +72,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=utkarsh-kapoor-wq&theme=dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&count_private=true" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=utkarsh-kapoor-wq&theme=dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&count_private=true" alt="GitHub Streak" />
   </a>
 </p>
